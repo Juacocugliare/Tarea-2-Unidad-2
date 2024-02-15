@@ -1,0 +1,38 @@
+
+body{
+    background-color: rgb(49, 49, 255);
+}
+
+.nombre{
+    text-align: center;
+    color: white;
+}
+
+img{
+    margin-left: 50px;
+}
+
+h4, p, li, label{
+    color: white;
+}
+
+h4, ul, p, form{
+    margin-left: 60px;
+}
+
+.formulario{
+    margin-top: 2rem;
+    margin-left: 60px;
+}
+
+button{
+    height: 30px;
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+    margin-left: 20px;
+}
+
+input{
+    height: 25px;
+}
